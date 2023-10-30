@@ -1,5 +1,7 @@
 ﻿# Tankerkoenig Lovelace Card
 
+⚠️ NOT MAINTAINED (long time no activity) ⚠️
+
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg?style=for-the-badge)](#) [![mantained](https://img.shields.io/maintenance/yes/2021.svg?style=for-the-badge)](#) [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
 [![maintainer](https://img.shields.io/badge/maintainer-Goran%20Zunic%20%40panbachi-blue.svg?style=for-the-badge)](https://www.panbachi.de)
